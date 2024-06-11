@@ -1,0 +1,6 @@
+[submodule "AphromasDiamondV1BE"]
+	path = AphromasDiamondV1BE
+	url = https://github.com/FelixGame0705/AphromasDiamondV1BE.git
+[submodule "AphromasDiamond_FE"]
+	path = AphromasDiamond_FE
+	url = https://github.com/PhanLong166/AphromasDiamond_FE.git
