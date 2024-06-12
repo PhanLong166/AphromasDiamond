@@ -37,7 +37,7 @@ services:
     env_file:
       - ./.env.fe
     ports:
-      - 8080:80
+      - 5173:80
     restart: always
     networks:
       - aphromas_net
